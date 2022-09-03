@@ -1,11 +1,13 @@
 img{
-    width: 245px;
-    height: 245px;
+    width: 150px;
+    height: 150px;
+    /* margin-left: -23px; */
 }
 .column {
     float: left;
-    width: 23.33%;
-    padding: 5px;
+    width:160px;
+    /* width: 33.33%; */
+    /* padding: 5px; */
   }
   
   /* Clearfix (clear floats) */
@@ -15,6 +17,14 @@ img{
     display: table;
   }
   .footer img{
-    width: 23px;
-    height: 23px;
+    width: 22px;
+    height: 20px;
+  }
+  .logo img{
+    width: 60px;
+    height: 60px;
+  }
+   h2{
+    text-decoration: none;
+    color: red;
   }

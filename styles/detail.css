@@ -1,6 +1,10 @@
 .radisand img{
-    width: 700px;
-    height: 700px;
+    width: 350px;
+    height: 350px;
+}
+.dlogo img{
+    width: 60px;
+    height: 60px;
 }
 .radisand a{
     position: relative;
