@@ -1,0 +1,84 @@
+.radisan img{
+    width: 750px;
+    height: 750px;
+}
+
+.lalit img{
+    width: 750px;
+    height: 750px;
+    margin-top: 155px;
+}
+.radisan a{
+    
+
+}
+.radisan .ra{
+   position: relative;
+   font-size: 21px;
+   left: -746px;
+   top: 50px;
+}
+.radisan .rr{
+    position: relative;
+   font-size: 21px;
+   left: -868px;
+   top: 90px; 
+}
+.radisan .rp{
+    position: relative;
+    font-size: 21px;
+   left: -978px;
+   top: 130px; 
+}
+.lalit .la{
+    position: relative;
+    font-size: 21px;
+    left: -746px;
+    top: 20px;
+}
+.lalit .lr{
+    position: relative;
+    font-size: 21px;
+    left: -916px;
+    top: 60px;
+}
+.lalit .lp{
+    position: relative;
+    font-size: 21px;
+    left: -1034px;
+    top: 100px;
+}
+.taj {
+    margin-top: 129px;
+}
+.taj img{
+    width: 750px;
+    height: 750px;
+    /* margin-top: 155px; */
+}
+.taj .ta{
+    position: relative;
+    font-size: 21px;
+    left: -744px;
+    top: 40px;
+
+}
+.taj .tr{
+    position: relative;
+    font-size: 21px;
+    left: -834px;
+    text-decoration: none;
+    top: 70px;
+}
+.taj .tp{
+    position: relative;
+    font-size: 21px;
+    left: -954px;
+    top: 100px;
+    text-decoration: none;
+}
+.map{
+    width: 750px;
+    margin-top: 78px;
+    /* height: 750px; */
+}

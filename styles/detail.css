@@ -1,0 +1,27 @@
+.radisand img{
+    width: 700px;
+    height: 700px;
+}
+.radisand a{
+    position: relative;
+    top: 25px;
+    left: -703px;
+    color: n=blue;
+    font-size: 23px;
+}
+.dfooter{
+    position: absolute;
+    left: 934px;
+}
+.dfooter img{
+    width: 23px;
+    height: 23px;
+    position: relative;
+    left: -200px;
+}
+.dfooter h2{
+    font-size: 20px;
+    position: relative;
+    left: -200px;
+    text-decoration: none;
+}

@@ -14,3 +14,7 @@ img{
     clear: both;
     display: table;
   }
+  .footer img{
+    width: 23px;
+    height: 23px;
+  }
