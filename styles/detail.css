@@ -25,3 +25,10 @@
     left: -200px;
     text-decoration: none;
 }
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 223px;
+}
