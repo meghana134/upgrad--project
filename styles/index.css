@@ -1,3 +1,6 @@
+body{
+  margin: 0px;
+}
 img{
     width: 150px;
     height: 150px;
@@ -6,8 +9,16 @@ img{
 .column {
     float: left;
     width:160px;
+    /* left: 23px; */
+    margin-right: -54px;
+    margin-left: 147px;
     /* width: 33.33%; */
     /* padding: 5px; */
+  }
+  .column img{
+    border: 2px ;
+    border-radius: 18px;
+    background-color:  #e0e0e0;
   }
   
   /* Clearfix (clear floats) */
@@ -27,4 +38,21 @@ img{
    h2{
     text-decoration: none;
     color: red;
+  }
+  .logo{
+    background-color: rosybrown;
+  }
+  .footer{
+    background-color: rosybrown;
+  }
+  .loc {
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg");
+    height: 450px;
+    width: 100%;
+    /* background: co; */
+    /* background-image:; */
+    /* background-position: center; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
