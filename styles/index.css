@@ -52,10 +52,20 @@ img{
     background-image: url("https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg");
     height: 450px;
     width: 100%;
+    /* position: relative; */
+    /* margin-left: 89px; */
+    /* position: absolute; */
+    /* left: ; */
     /* background: co; */
     /* background-image:; */
     /* background-position: center; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  .login{
+    position: absolute;
+    top: 4px;
+    /* left: ; */
+    right: 9px;
   }
