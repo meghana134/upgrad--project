@@ -1,114 +1,40 @@
-.radisan img{
+/* Added CSS for hotel image on hotel list page*/
+.hotel-image-small {
+    height: 200px;
     width: 250px;
-    height: 250px;
-    
 }
-.radisan{
-    background-color:  rgb(132,136,139);
-    width: 30%;
-    height: 390px;
-    margin-left: 23px;
+.hotel{
+    margin: 4% 5% 0% 5%; 
+    background-color: lightgrey;
+    width: 40%;
+    float: left;
+    display: flex;
+    justify-content: start;
+    align-content: center;
 }
-
-.lalit img{
-    width: 250px;
-    height: 250px;
-    margin-top: 125px;
-}
-.radisan a{
-    
-
-}
-.radisan .ra{
-   position: relative;
-   font-size: 21px;
-   left: -236px;
-   top: 50px;
-   /* background-color: red; */
-}
-.radisan .rr{
-    position: relative;
-   font-size: 21px;
-   left: -360px;
-   top: 90px; 
-}
-.radisan .rp{
-    position: relative;
-    font-size: 21px;
-   left: -466px;
-   font-size: 20px;
-   top: 130px; 
-}
-.lalit{
-    background-color:  rgb(132,136,139);
-    width: 30%;
-    margin-top: 23px;
-    margin-left: 26px;
-    height: 390px;
-}
-.lalit .la{
-    position: relative;
-    font-size: 21px;
-    left: -246px;
-    top: 24px;
-    /* background-color: red; */
-}
-.lalit .lr{
-    position: relative;
-    font-size: 21px;
-    left: -416px;
-    top: 60px;
-}
-.lalit .lp{
-    position: relative;
-    font-size: 21px;
-    left: -534px;
-    top: 100px;
-}
-.taj{
-    background-color:  rgb(132,136,139);
-    width: 30%;
-    height: 390px;
-    margin-left: 23px;
-}
-.taj {
-    margin-top: 129px;
-}
-.taj img{
-    width: 250px;
-    height: 250px;
-    /* margin-top: 155px; */
-}
-.taj .ta{
-    position: relative;
-    font-size: 21px;
-    left: -244px;
-    top: 40px;
-
-}
-.taj .tr{
-    position: relative;
-    font-size: 21px;
-    left: -334px;
-    text-decoration: none;
-    top: 70px;
-}
-.taj .tp{
-    position: relative;
-    font-size: 21px;
-    left: -454px;
-    top: 100px;
-    text-decoration: none;
-}
-.map{
-    width: 750px;
-    margin-top: 78px;
-    /* height: 750px; */
-}
-body{
-    margin: 0px;
-    background-color: #e0e0e0;
-}
-.lheader{
+.hotel:hover {
     background-color: rosybrown;
+}
+#list-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin-top: 6%;
+}
+#list-map {
+    position: relative;
+    top: 0%;
+}
+#select-list {
+    position: absolute;
+    left: 42%;
+    font-weight: bold;
+}
+#select-map {
+    position: absolute;
+    left: 50%;
+    font-weight: bold;
+}
+#pills-tab {
+    justify-content: center;
 }
